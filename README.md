@@ -3,7 +3,7 @@ We are submitting IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS (T-ITS
 
 > **ConvDepth: Self-Supervised Monocular Depth Estimation for Autonomous Driving**
 
-##  setup
+##  Setup
 
 We ran our experiments with PyTorch 1.8.0, CUDA 11.1, Python 3.6 and Ubuntu 20.04.
 
@@ -56,7 +56,7 @@ python evaluate_depth.py --load_weights_folder ~/tmp/mono_model/models/weights_1
 Make3D
 ```shell
 python evaluate_make3d_depth.py
+```
 
 ## Models
 Updating
-```
