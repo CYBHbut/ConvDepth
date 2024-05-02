@@ -3,6 +3,8 @@ We are submitting IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS (T-ITS
 
 > **ConvDepth: Self-Supervised Monocular Depth Estimation for Autonomous Driving**
 
+##  Video
+VideoDdeoLink:https://b23.tv/a69ZSY1
 ##  Setup
 
 We ran our experiments with PyTorch 1.8.0, CUDA 11.1, Python 3.6 and Ubuntu 20.04.
